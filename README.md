@@ -1,2 +1,2 @@
-# Kyonggi Univ. Capstone Design
-## Detecting smoking outside the smoking area using object detection
+# Capstone Design
+##     Detecting smoking outside the smoking area using object detection
