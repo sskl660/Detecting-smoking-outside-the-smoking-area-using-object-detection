@@ -1,0 +1,33 @@
+@font-face {
+    font-family: 'IndieFlower-Regular';
+    src: url("IndieFlower-Regular.ttf");format('truetype');
+}
+
+@font-face {
+    font-family: 'DoHyeon-Regular';
+    src: url("DoHyeon-Regular.ttf");format('truetype');
+}
+
+* {
+    font-family: 'DoHyeon-Regular';
+    font-size: 1.1rem;
+}
+
+#top_title {
+    cursor: pointer;
+    position: relative;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 20px;
+    margin-bottom: 30px;
+    top: 0px;
+    width: 300px;
+    font-family: 'IndieFlower-Regular';
+    font-size: 35px;
+    border: 2px solid black;
+    box-shadow: 0 5px 8px 0;
+}
+
+tr {
+    cursor:pointer;
+}

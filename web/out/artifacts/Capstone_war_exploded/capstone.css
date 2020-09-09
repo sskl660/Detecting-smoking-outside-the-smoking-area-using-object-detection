@@ -1,0 +1,279 @@
+/*구글 웹폰트는 WOFF2형식으로 IE는 지원 불가*/
+
+@font-face {
+    font-family: 'IndieFlower-Regular';
+    src: url("IndieFlower-Regular.ttf");format('truetype');
+}
+
+@font-face {
+    font-family: 'DoHyeon-Regular';
+    src: url("DoHyeon-Regular.ttf");format('truetype');
+}
+
+body {
+    font-family: 'DoHyeon-Regular';
+}
+
+table{
+    width: 100%;
+    border-top: 1px solid #444444;
+    border-collapse: collapse;
+}
+thead tr {
+    background-color: #0d47a1;
+    color: #ffffff;
+}
+tbody tr:nth-child(2n) {
+    background-color: #bbdefb;
+}
+tbody tr:nth-child(2n+1) {
+    background-color: #e3f2fd;
+}
+td {
+    border-bottom: 1px solid #a8a8a8;
+    padding: 10px;
+    text-align: center;
+    font-size: 20px;
+    font-family: 'DoHyeon-Regular';
+}
+
+th {
+    border-bottom: 1px solid #444444;
+    padding: 10px;
+    text-align: center;
+    font-size: 30px;
+    font-family: 'DoHyeon-Regular';
+}
+
+input{
+    font-size: 30px;
+    font-family: 'DoHyeon-Regular';
+}
+option{
+    font-size: 30px;
+    font-family: 'DoHyeon-Regular';
+}
+
+select{
+    font-size: 30px;
+    font-family: 'DoHyeon-Regular';
+}
+#container {
+    height: auto;
+    width: 100%;
+}
+
+#top_bar {
+    height: 100px;
+    margin: 1%;
+}
+
+#top_title {
+    cursor: pointer;
+    position: relative;
+    margin-left: auto;
+    margin-right: auto;
+    top: 20px;
+    width: 300px;
+    font-family: 'IndieFlower-Regular';
+    font-size: 35px;
+    border: 2px solid black;
+    box-shadow: 0 5px 8px 0;
+}
+
+#left_bar {
+    width: 15%;
+    height: 100%;
+    background-color: rgb(225, 225, 225);
+    float: left;
+    margin: 1%;
+    border: 1px solid #000000;
+}
+
+#right_bar {
+    width: 15%;
+    height: 100%;
+    background-color: rgb(225, 225, 225);
+    float: left;
+    margin: 1%;
+    border: 1px solid #000000;
+}
+
+#login_infor {
+    /*relative 원래 배치되어야 할 곳에서 저만치 떨어짐*/
+    font-family: DoHyeon-Regular;
+    position: relative;
+    left: 70%;
+    top: 20px;
+    width: 200px;
+    background-color: white;
+    font-size: 23px;
+    border: 2px solid #000000;
+    box-shadow: 0 5px 8px 0;
+}
+
+#bottom_bar {
+    clear: both;
+    margin: 1%;
+    text-align: center;
+    border: 1px solid #000000;
+    top: 100%;
+    height: 60px;
+    background-color: rgb(225, 225, 225);
+}
+
+#main_layer {
+    width: 63.3%;
+    height: 100%;
+    background-color: rgb(225, 225, 225);
+    float: left;
+    margin: 1%;
+    border: 1px solid #000000;
+    text-align: center;
+}
+
+.login-container {
+    position: relative;
+    margin-left: auto;
+    margin-right: auto;
+    top: 200px;
+    left: 200px;
+    background-color: white;
+}
+
+.login-form-1 {
+    padding: 5%;
+    box-shadow: 0 5px 8px 0 rgba(0, 0, 0, 0.2), 0 9px 26px 0 rgba(0, 0, 0, 0.19);
+}
+
+.login-container form {
+    padding: 10%;
+}
+
+.btnSubmit {
+    width: 50%;
+    border-radius: 1rem;
+    padding: 1.5%;
+    border: none;
+    cursor: pointer;
+}
+
+.login-form-1 .btnSubmit {
+    font-weight: 600;
+    color: #fff;
+    background-color: #0062cc;
+}
+
+ul#navi {
+    width: 100%;
+    text-indent: 10px;
+}
+
+ul#navi, ul#navi ul {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+
+li.group {
+    margin-bottom: 3px;
+}
+
+li.group div.title {
+    height: 35px;
+    line-height: 35px;
+    background: #9ab92e;
+    cursor: pointer;
+}
+
+ul.sub li {
+    margin-bottom: 2px;
+    height: 50px;
+    line-height: 35px;
+    background: #f4f4f4;
+    cursor: pointer;
+    border: 1px solid #000000;
+}
+
+ul.sub li a {
+    font-family: DoHyeon-Regular;
+    display: block;
+    font-size: 20px;
+    padding: 5px;
+    text-decoration: none;
+    color: #000;
+}
+
+/*마우스 오버시 색상*/
+ul.sub li:hover {
+    background: #ff0015;
+}
+
+/* SEARCH */
+#search {
+    margin: 5px;
+    height: 40px;
+}
+
+#search_window {
+    height: 40px;
+    width: 50%;
+    border: 1px solid #1b5ac2;
+    float: left;
+}
+
+#search_select {
+    height: 40px;
+    float: left;
+}
+
+#search_info {
+    clear: both;
+
+}
+
+/* 이건 공용 */
+input {
+    font-size: 16px;
+    width: 90%;
+    padding: 10px;
+    border: 0px;
+    outline: none;
+    float: left;
+}
+
+button {
+    font-size: 18px;
+    cursor: pointer;
+    width: 10%;
+    height: 100%;
+    border: 0px;
+    background: #0062cc;
+    outline: none;
+    float: right;
+    color: #ffffff;
+    font-family: 'DoHyeon-Regular';
+}
+
+tr {
+    cursor: pointer;
+}
+
+#picture {
+    display: inline-block;
+    vertical-align: middle;
+    margin: 5px;
+    width: 50%;
+    height: 40%;
+    border: solid black 2px;
+}
+
+#student_info {
+    overflow: auto;
+    clear: both;
+    display: block;
+    height: 250px;
+    margin: 5px;
+    border: solid black 2px;
+
+}
