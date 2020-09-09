@@ -38,6 +38,6 @@
 
 https://www.youtube.com/watch?v=oLQpSs1fuAk
 
-[![Usage](https://www.youtube.com/watch?v=oLQpSs1fuAk/0.jpg)](https://www.youtube.com/watch?v=oLQpSs1fuAk) 
+[![Usage](https://youtu.be/oLQpSs1fuAk/0.jpg)](https://youtu.be/oLQpSs1fuAk)
 
 <iframe width="560" height="315" src="https://www.youtube.com/watch?v=oLQpSs1fuAk" frameborder="0" allowfullscreen></iframe>
