@@ -25,7 +25,7 @@
 
 ### Hardware Composition
 
-![image-20200909144212803](C:\Users\user33\AppData\Roaming\Typora\typora-user-images\image-20200909144212803.png)
+
 
 
 
