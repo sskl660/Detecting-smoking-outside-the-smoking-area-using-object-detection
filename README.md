@@ -3,8 +3,7 @@
  + Project-name: Detecting smoking outside the smoking area using object detection
  + Team-name: 님아, 그 선을 넘지마오. (Don't Cross the line)
  + with: 김태현, 김상현, 박지훈, 박현우.
-
-* This project is the graduation work of the 2nd semester of the 4th grade of the Department of Computer Science at Kyunggi University.
+ + This project is the graduation work of the 2nd semester of the 4th grade of the Department of Computer Science at Kyunggi University.
 
 
 
