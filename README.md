@@ -25,13 +25,12 @@
 
 ### Hardware Composition
 
-
-
+![1](https://user-images.githubusercontent.com/50494545/92564579-5a39e480-f2b4-11ea-931b-cab9241d0d2c.PNG)
 
 
 ### Software Composition
 
-![image-20200909144222267](C:\Users\user33\AppData\Roaming\Typora\typora-user-images\image-20200909144222267.png)
+![2](https://user-images.githubusercontent.com/50494545/92564612-67ef6a00-f2b4-11ea-944a-84718bbb02a9.PNG)
 
 
 
