@@ -36,4 +36,4 @@
 
 ## Usage
 
-[![Watch the video](https://img.youtube.com/vi/oLQpSs1fuAk/hqdefault.jpg)](https://youtu.be/oLQpSs1fuAk)
+[![Watch the video](https://img.youtube.com/vi/oLQpSs1fuAk/2.jpg)](https://youtu.be/oLQpSs1fuAk)
